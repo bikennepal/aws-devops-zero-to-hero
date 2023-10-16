@@ -19,6 +19,9 @@ VPC peering allows you to connect two VPCs together, enabling resources in diffe
 ### 7. What is a route table in Amazon VPC?
 A route table defines the rules for routing traffic within a VPC. It determines how traffic is directed between subnets and to external destinations.
 
+### 8. What is the difference between VPN and VPC?
+A VPc is a virtual private clud which provides secure and isolated resources whereas VPN can be extended out of the the publcic cloud as well.
+
 ### 8. How do security groups work in Amazon VPC?
 Security groups act as virtual firewalls for your instances, controlling inbound and outbound traffic. They can be associated with instances and control their network access.
 
