@@ -5,3 +5,4 @@ https://youtu.be/FZPTL_kNvXc
 Aws Project: public private subnet tier2 application implementation
 1. create vpc with 2ags
 2.to create auto scaling group we need to create template
+to access private instance from public make sure to sue .pem key type so that you won't face any issue and use mobaxterm to login and access
